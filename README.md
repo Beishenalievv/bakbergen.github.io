@@ -1,5 +1,5 @@
 # Book Landing Page Template
-The Book Landing Page Template by BostonianAdam is a free HTML5/Bootstrap 4 template for everyone.
+The Book Landing Page Template by Bakbergen Beishenaliev is a free HTML5/Bootstrap 5 template for everyone.
 
 ## Demo
 https://bakbergen.github.io/
